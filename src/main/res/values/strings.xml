@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dip</string>
+    <string name="kgasu_icon">Kgasu</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo_of_app_1">KGASU</string>
+    <string name="logo_of_app_2">App</string>
+    <string name="course_start_level">Курс обучения</string>
+    <string name="course_fak">Факультет</string>
+    <string name="raspisanie">Расписание</string>
+</resources>
